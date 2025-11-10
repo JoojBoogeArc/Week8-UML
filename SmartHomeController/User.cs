@@ -72,7 +72,7 @@ namespace SmartHomeController
             if (IsLoggedIn)
             {
                 IsLoggedIn = false;
-                Console.WriteLine("User is logged out successfully";
+                Console.WriteLine("User is logged out successfully");
             }
             else
             {
