@@ -8,5 +8,8 @@ namespace SmartHomeController
 {
     internal class User
     {
+        int userID;
+        string userName;
+        string contactInfo;
     }
 }
